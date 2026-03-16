@@ -78,8 +78,6 @@ Experience working with large React applications that include:
 
 ## GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=rigoni-roger\&show_icons=true\&theme=transparent)
-
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigoni-roger\&layout=compact\&theme=transparent)
 
 ---
